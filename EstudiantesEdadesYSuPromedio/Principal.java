@@ -1,0 +1,12 @@
+package taller02052023;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		new Procesos().Iniciar();
+		
+	}
+
+}

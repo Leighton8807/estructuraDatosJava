@@ -1,0 +1,4 @@
+Jorge Eliecer Leighton Romero
+ADSO - 2560321-2
+
+En esta carpeta se encuentran los ejercicios de java correspondientes que se entregan.
